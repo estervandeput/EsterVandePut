@@ -24,8 +24,6 @@ This portfolio offers you insight into my skills and interests. If you'd like to
 
 ## Tools & Languages
 
-NOTE: Missing Tableau, CRM platforms & Rstudio
-
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -72,5 +70,14 @@ NOTE: Missing Tableau, CRM platforms & Rstudio
   <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
   </a>
+<a href="https://www.hubspot.com/products/get-started-f049?utm_id=326993346842&utm_medium=paid&utm_source=google&utm_term=marketing_hubspot_EN&utm_campaign=Marketing_MQLs_EN_NAM_NAM_Brand-HubSpot_e_c_campaignid804389993_agid43208773113_google&utm_content=_&hsa_ver=3&hsa_net=adwords&hsa_acc=2734776884&hsa_kw=hubspot&hsa_grp=43208773113&hsa_mt=e&hsa_cam=804389993&hsa_ad=326993346842&hsa_tgt=kwd-298569398281&hsa_src=g&gad_source=1&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVDgHcsDVr-ILi4rf-f1JHJhsFC_RHSckYW3OQ0qwkdilVmflLuH6ehoCuhcQAvD_BwE" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="40" height="40"/>
+</a>
+<a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/>
+</a>
+
 </p>
+
+Note: I am also proficient in Excel and the Microsoft Suite.
 
