@@ -13,7 +13,7 @@ As a bilingual professional fluent in French and English, I have a unique global
 
 This portfolio offers you insight into my skills and interests. If you'd like to discuss a potential collaboration, I'm always open to connecting with like-minded professionals.
 
-## A Little Bit More About Me
+## A little bit more about me
 - 🔭 I’m currently working as a Marketing Analyst Intern for WESCO, a leading supply chain company.
 - 👯 I’m looking to collaborate on marketing analysis projects, consumer behavior studies, and data-driven market research initiatives.
 - 🤔 I’m looking for help with data visualization best practices, advanced data analytics techniques, machine learning applications in marketing, and customer segmentation strategies.
@@ -22,7 +22,10 @@ This portfolio offers you insight into my skills and interests. If you'd like to
  or via email at [efvandeput@gmail.com].
 - ⚡ Fun fact: I was born and raised in Belgium, yet I have never liked waffles.
 
-## (Some) Tools & Languages
+## Tools & Languages
+
+NOTE: Missing Tableau, CRM platforms & Rstudio
+
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
